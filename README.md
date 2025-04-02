@@ -8,7 +8,7 @@ No, this template is source code is public for anyone to use. You are welcome to
 
 # Installation
 
-- Download the dll from [here](https://github.com/iiDk-the-actual/iis.Stupid.Template/releases/latest)
+- Download the dll from [here](https://github.com/aromagtag/Nexus-Client/releases/tag/v1.0.0)
 - Use mmm (Monkey Mod Manager) to install BlepinEx
 - Move it to your plugins in BelpinEx.
 - Then open gorilla tag and your good!!
