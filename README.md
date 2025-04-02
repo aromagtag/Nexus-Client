@@ -9,12 +9,12 @@ No, this template is source code is public for anyone to use. You are welcome to
 # Installation
 
 - Download the dll from [here](https://github.com/iiDk-the-actual/iis.Stupid.Template/releases/latest)
-- Move it to your plugins in BelpinEx.
 - Use mmm (Monkey Mod Manager) to install BlepinEx
+- Move it to your plugins in BelpinEx.
 - Then open gorilla tag and your good!!
 
 ### Discord Link
 The [Discord Link](https://discord.gg/QMdN9d8AXp)
 
 #### Made By ※ (@aromagtag) on discord
-##### VERSION 1.0.0
+##### VERSION 1.0.0 (PUBLIC BETA)
